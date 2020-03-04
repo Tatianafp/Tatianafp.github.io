@@ -79,6 +79,10 @@ body {
   font-size: 1rem!important;
 }
 
+.logo {
+  margin: 2%;
+}
+
 /*########## Sobre ##########*/
 
 .sobre {
