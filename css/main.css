@@ -58,6 +58,8 @@ body {
   color: #9dc1cf;
 }
 
+/*########## Inicio ##########*/
+
 .titulo {
   background-color: #c3d0d5;
   display: flex;
@@ -76,6 +78,8 @@ body {
 .titulo legenda{
   font-size: 1rem!important;
 }
+
+/*########## Sobre ##########*/
 
 .sobre {
   padding-top: 3.75em;
@@ -125,6 +129,8 @@ body {
   width: 50%;
   padding: 2%;
 }
+
+/*########## Membros ##########*/
 
 .fora-membros {
   background: rgb(215, 221, 223);
